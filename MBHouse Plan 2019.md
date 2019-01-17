@@ -4,7 +4,7 @@
 * 日常月结费用的结算（水、电、燃气费、物业、租金）
 *  宿舍管理
 *  居住登记
-* 
+
 ### 解决方法
 	找到费用的解决方法，交付给租客来结算
 	做出管理制度，来租客来执行
@@ -15,5 +15,5 @@
 *  费用
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzE5NjUwMSwtMTQxODg0MzM3MF19
+eyJoaXN0b3J5IjpbLTg0MDI1ODY3LC0xNDE4ODQzMzcwXX0=
 -->
