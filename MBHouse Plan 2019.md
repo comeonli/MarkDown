@@ -16,7 +16,11 @@
 
 ## 若有若屋的财富自由
 **年收入5k**
+
+
+## 推行一年一签
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY4MzQ2MzUsOTI2MjcyNTAxLDE1NT
-UzMTAxODEsLTE0MTg4NDMzNzBdfQ==
+eyJoaXN0b3J5IjpbNzU3OTU4Mjg1LDkyNjI3MjUwMSwxNTU1Mz
+EwMTgxLC0xNDE4ODQzMzcwXX0=
 -->
