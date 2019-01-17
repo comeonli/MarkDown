@@ -14,6 +14,8 @@
 *  租金
 *  费用
 
+## 若有若屋的财富自由
+年收入1w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDI1ODY3LC0xNDE4ODQzMzcwXX0=
+eyJoaXN0b3J5IjpbMTU1NTMxMDE4MSwtMTQxODg0MzM3MF19
 -->
