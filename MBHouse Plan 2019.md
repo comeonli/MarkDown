@@ -3,14 +3,17 @@
 ## 目前人力问题
 * 日常月结费用的结算（水、电、燃气费、物业、租金）
 *  宿舍管理
-
+*  居住登记
+* 
 ### 解决方法
 	找到费用的解决方法，交付给租客来结算
+	做出管理制度，来租客来执行
+	公众号推文推送交房租
 	
 ##  成本结算
 *  租金
 *  费用
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NDc0Mjg1LC0xNDE4ODQzMzcwXX0=
+eyJoaXN0b3J5IjpbLTMwMzE5NjUwMSwtMTQxODg0MzM3MF19
 -->
