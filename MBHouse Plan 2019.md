@@ -4,12 +4,13 @@
 * 日常月结费用的结算（水、电、燃气费、物业、租金）
 *  宿舍管理
 
-
-
+### 解决方法
+	找到费用的解决方法，交付给租客来结算
+	
 ##  成本结算
 *  租金
 *  费用
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg4NDMzNzBdfQ==
+eyJoaXN0b3J5IjpbMzQ4NDc0Mjg1LC0xNDE4ODQzMzcwXX0=
 -->
