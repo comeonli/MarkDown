@@ -15,7 +15,8 @@
 *  费用
 
 ## 若有若屋的财富自由
-年收入1w
+年收入5k
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTMxMDE4MSwtMTQxODg0MzM3MF19
+eyJoaXN0b3J5IjpbOTI2MjcyNTAxLDE1NTUzMTAxODEsLTE0MT
+g4NDMzNzBdfQ==
 -->
